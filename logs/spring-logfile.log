@@ -1,0 +1,398 @@
+2024-09-06 20:28:21 {main} INFO  com.learning.demo.SpringDemoLearningApplication - Starting SpringDemoLearningApplication using Java 21.0.2 with PID 27228 (D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples\target\classes started by pavle in D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples)
+2024-09-06 20:28:21 {main} INFO  com.learning.demo.SpringDemoLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-06 20:28:22 {main} INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8081 (http)
+2024-09-06 20:28:22 {main} INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 810 ms
+2024-09-06 20:28:22 {main} INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8081 (http) with context path ''
+2024-09-06 20:28:22 {main} INFO  com.learning.demo.SpringDemoLearningApplication - Started SpringDemoLearningApplication in 1.68 seconds (process running for 2.506)
+2024-09-06 20:32:03 {main} INFO  com.learning.demo.SpringDemoLearningApplication - Starting SpringDemoLearningApplication using Java 21.0.2 with PID 3052 (D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples\target\classes started by pavle in D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples)
+2024-09-06 20:32:03 {main} INFO  com.learning.demo.SpringDemoLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-06 20:32:03 {main} INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8081 (http)
+2024-09-06 20:32:03 {main} INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 599 ms
+2024-09-06 20:32:04 {main} INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8081 (http) with context path ''
+2024-09-06 20:32:04 {main} INFO  com.learning.demo.SpringDemoLearningApplication - Started SpringDemoLearningApplication in 1.257 seconds (process running for 1.834)
+2024-09-06 20:32:14 {main} INFO  com.learning.demo.SpringDemoLearningApplication - Starting SpringDemoLearningApplication using Java 21.0.2 with PID 22536 (D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples\target\classes started by pavle in D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples)
+2024-09-06 20:32:14 {main} INFO  com.learning.demo.SpringDemoLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-06 20:32:14 {main} INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8081 (http)
+2024-09-06 20:32:14 {main} INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 639 ms
+2024-09-06 20:32:15 {main} INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8081 (http) with context path ''
+2024-09-06 20:32:15 {main} INFO  com.learning.demo.SpringDemoLearningApplication - Started SpringDemoLearningApplication in 1.343 seconds (process running for 1.978)
+2024-09-06 20:33:22 {http-nio-8081-exec-2} INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-09-06 20:33:22 {http-nio-8081-exec-2} INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-09-06 20:33:22 {http-nio-8081-exec-2} INFO  com.learning.demo.controllers.UserController - Displaying registration form
+2024-09-06 20:33:46 {http-nio-8081-exec-7} INFO  com.learning.demo.controllers.UserController - User saved: BaseUser(name=Anna V. Pavlenko, email=apavwork@gmail.com, tel=3034089425, password=AsdfAdf78, refer=linkedin, contact=email, terms=true)
+2024-09-06 20:34:34 {http-nio-8081-exec-5} INFO  com.learning.demo.controllers.UserController - Displaying all users
+2024-09-06 20:35:32 {http-nio-8081-exec-6} WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-09-06 20:36:14 {http-nio-8081-exec-8} INFO  com.learning.demo.controllers.UserController - User updated: BaseUser(name=Sam, email=apavwork@gmail.com, tel=3034089425, password=AsdfFgrt5667, refer=linkedin, contact=email, terms=true)
+2024-09-06 20:36:14 {http-nio-8081-exec-9} INFO  com.learning.demo.controllers.UserController - Displaying all users
+2024-09-06 20:36:36 {http-nio-8081-exec-10} INFO  com.learning.demo.controllers.UserController - Displaying registration form
+2024-09-06 20:36:54 {http-nio-8081-exec-1} INFO  com.learning.demo.controllers.UserController - User saved: BaseUser(name=Anna V. Pavlenko, email=apavwork@gmail.com, tel=3034089425, password=Asdgfret678, refer=linkedin, contact=email, terms=true)
+2024-09-06 20:37:01 {http-nio-8081-exec-2} INFO  com.learning.demo.controllers.UserController - Displaying all users
+2024-09-06 20:37:06 {http-nio-8081-exec-3} WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-09-06 20:39:13 {http-nio-8081-exec-6} INFO  com.learning.demo.controllers.UserController - User updated: BaseUser(name=Sam, email=apavwork@gmail.com, tel=3034089425, password=Asdgfret678, refer=linkedin, contact=email, terms=true)
+2024-09-06 20:39:13 {http-nio-8081-exec-4} INFO  com.learning.demo.controllers.UserController - Displaying all users
+2024-09-06 20:45:16 {main} INFO  com.learning.demo.SpringDemoLearningApplication - Starting SpringDemoLearningApplication using Java 21.0.2 with PID 148 (D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples\target\classes started by pavle in D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples)
+2024-09-06 20:45:16 {main} INFO  com.learning.demo.SpringDemoLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-06 20:45:16 {main} INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8081 (http)
+2024-09-06 20:45:16 {main} INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 714 ms
+2024-09-06 20:45:17 {main} WARN  org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'hiddenHttpMethodFilter' defined in class path resource [com/learning/demo/controllers/UserController.class]: Post-processing of merged bean definition failed
+2024-09-06 20:45:17 {main} INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-09-06 20:45:17 {main} ERROR org.springframework.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'hiddenHttpMethodFilter' defined in class path resource [com/learning/demo/controllers/UserController.class]: Post-processing of merged bean definition failed
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:577) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:975) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:962) ~[spring-context-6.1.6.jar:6.1.6]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:624) ~[spring-context-6.1.6.jar:6.1.6]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.2.5.jar:3.2.5]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) [spring-boot-3.2.5.jar:3.2.5]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456) [spring-boot-3.2.5.jar:3.2.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334) [spring-boot-3.2.5.jar:3.2.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) [spring-boot-3.2.5.jar:3.2.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343) [spring-boot-3.2.5.jar:3.2.5]
+	at com.learning.demo.SpringDemoLearningApplication.main(SpringDemoLearningApplication.java:10) [classes/:?]
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [org.springframework.web.filter.reactive.HiddenHttpMethodFilter] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:483) ~[spring-core-6.1.6.jar:6.1.6]
+	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:320) ~[spring-core-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.buildLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:297) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.findLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:274) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.findLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:203) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(InitDestroyAnnotationBeanPostProcessor.java:182) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(CommonAnnotationBeanPostProcessor.java:311) ~[spring-context-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyMergedBeanDefinitionPostProcessors(AbstractAutowireCapableBeanFactory.java:1085) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:574) ~[spring-beans-6.1.6.jar:6.1.6]
+	... 15 more
+Caused by: java.lang.NoClassDefFoundError: reactor/core/publisher/Mono
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method) ~[?:?]
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3578) ~[?:?]
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2676) ~[?:?]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465) ~[spring-core-6.1.6.jar:6.1.6]
+	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:320) ~[spring-core-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.buildLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:297) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.findLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:274) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.findLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:203) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(InitDestroyAnnotationBeanPostProcessor.java:182) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(CommonAnnotationBeanPostProcessor.java:311) ~[spring-context-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyMergedBeanDefinitionPostProcessors(AbstractAutowireCapableBeanFactory.java:1085) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:574) ~[spring-beans-6.1.6.jar:6.1.6]
+	... 15 more
+Caused by: java.lang.ClassNotFoundException: reactor.core.publisher.Mono
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method) ~[?:?]
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3578) ~[?:?]
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2676) ~[?:?]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465) ~[spring-core-6.1.6.jar:6.1.6]
+	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:320) ~[spring-core-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.buildLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:297) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.findLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:274) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.findLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:203) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(InitDestroyAnnotationBeanPostProcessor.java:182) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(CommonAnnotationBeanPostProcessor.java:311) ~[spring-context-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyMergedBeanDefinitionPostProcessors(AbstractAutowireCapableBeanFactory.java:1085) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:574) ~[spring-beans-6.1.6.jar:6.1.6]
+	... 15 more
+2024-09-06 20:45:35 {main} INFO  com.learning.demo.SpringDemoLearningApplication - Starting SpringDemoLearningApplication using Java 21.0.2 with PID 28960 (D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples\target\classes started by pavle in D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples)
+2024-09-06 20:45:35 {main} INFO  com.learning.demo.SpringDemoLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-06 20:45:35 {main} INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8081 (http)
+2024-09-06 20:45:35 {main} INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 587 ms
+2024-09-06 20:45:36 {main} INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8081 (http) with context path ''
+2024-09-06 20:45:36 {main} INFO  com.learning.demo.SpringDemoLearningApplication - Started SpringDemoLearningApplication in 1.223 seconds (process running for 1.837)
+2024-09-06 20:45:41 {http-nio-8081-exec-1} INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-09-06 20:45:41 {http-nio-8081-exec-1} INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2024-09-06 20:45:41 {http-nio-8081-exec-1} INFO  com.learning.demo.controllers.UserController - Displaying all users
+2024-09-06 20:45:49 {http-nio-8081-exec-2} INFO  com.learning.demo.controllers.UserController - Displaying registration form
+2024-09-06 20:46:01 {http-nio-8081-exec-3} INFO  com.learning.demo.controllers.UserController - User saved: BaseUser(name=Anna V. Pavlenko, email=apavwork@gmail.com, tel=3034089425, password=Afgvsd45, refer=facebook, contact=email, terms=true)
+2024-09-06 20:46:03 {http-nio-8081-exec-4} INFO  com.learning.demo.controllers.UserController - Displaying all users
+2024-09-06 20:46:04 {http-nio-8081-exec-5} WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-09-06 20:46:16 {http-nio-8081-exec-6} WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-09-06 20:46:26 {main} INFO  com.learning.demo.SpringDemoLearningApplication - Starting SpringDemoLearningApplication using Java 21.0.2 with PID 7736 (D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples\target\classes started by pavle in D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples)
+2024-09-06 20:46:26 {main} INFO  com.learning.demo.SpringDemoLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-06 20:46:27 {main} INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8081 (http)
+2024-09-06 20:46:27 {main} INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 598 ms
+2024-09-06 20:46:27 {main} WARN  org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'hiddenHttpMethodFilter' defined in class path resource [com/learning/demo/controllers/UserController.class]: Post-processing of merged bean definition failed
+2024-09-06 20:46:27 {main} INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-09-06 20:46:27 {main} ERROR org.springframework.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'hiddenHttpMethodFilter' defined in class path resource [com/learning/demo/controllers/UserController.class]: Post-processing of merged bean definition failed
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:577) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:975) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:962) ~[spring-context-6.1.6.jar:6.1.6]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:624) ~[spring-context-6.1.6.jar:6.1.6]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.2.5.jar:3.2.5]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) [spring-boot-3.2.5.jar:3.2.5]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456) [spring-boot-3.2.5.jar:3.2.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334) [spring-boot-3.2.5.jar:3.2.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) [spring-boot-3.2.5.jar:3.2.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343) [spring-boot-3.2.5.jar:3.2.5]
+	at com.learning.demo.SpringDemoLearningApplication.main(SpringDemoLearningApplication.java:10) [classes/:?]
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [org.springframework.web.filter.reactive.HiddenHttpMethodFilter] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:483) ~[spring-core-6.1.6.jar:6.1.6]
+	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:320) ~[spring-core-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.buildLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:297) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.findLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:274) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.findLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:203) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(InitDestroyAnnotationBeanPostProcessor.java:182) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(CommonAnnotationBeanPostProcessor.java:311) ~[spring-context-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyMergedBeanDefinitionPostProcessors(AbstractAutowireCapableBeanFactory.java:1085) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:574) ~[spring-beans-6.1.6.jar:6.1.6]
+	... 15 more
+Caused by: java.lang.NoClassDefFoundError: reactor/core/publisher/Mono
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method) ~[?:?]
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3578) ~[?:?]
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2676) ~[?:?]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465) ~[spring-core-6.1.6.jar:6.1.6]
+	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:320) ~[spring-core-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.buildLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:297) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.findLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:274) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.findLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:203) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(InitDestroyAnnotationBeanPostProcessor.java:182) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(CommonAnnotationBeanPostProcessor.java:311) ~[spring-context-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyMergedBeanDefinitionPostProcessors(AbstractAutowireCapableBeanFactory.java:1085) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:574) ~[spring-beans-6.1.6.jar:6.1.6]
+	... 15 more
+Caused by: java.lang.ClassNotFoundException: reactor.core.publisher.Mono
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method) ~[?:?]
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3578) ~[?:?]
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2676) ~[?:?]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465) ~[spring-core-6.1.6.jar:6.1.6]
+	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:320) ~[spring-core-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.buildLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:297) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.findLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:274) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.findLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:203) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(InitDestroyAnnotationBeanPostProcessor.java:182) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(CommonAnnotationBeanPostProcessor.java:311) ~[spring-context-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyMergedBeanDefinitionPostProcessors(AbstractAutowireCapableBeanFactory.java:1085) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:574) ~[spring-beans-6.1.6.jar:6.1.6]
+	... 15 more
+2024-09-06 20:46:38 {main} INFO  com.learning.demo.SpringDemoLearningApplication - Starting SpringDemoLearningApplication using Java 21.0.2 with PID 13568 (D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples\target\classes started by pavle in D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples)
+2024-09-06 20:46:38 {main} INFO  com.learning.demo.SpringDemoLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-06 20:46:39 {main} INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8081 (http)
+2024-09-06 20:46:39 {main} INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 599 ms
+2024-09-06 20:46:39 {main} INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8081 (http) with context path ''
+2024-09-06 20:46:39 {main} INFO  com.learning.demo.SpringDemoLearningApplication - Started SpringDemoLearningApplication in 1.343 seconds (process running for 2.051)
+2024-09-06 20:48:08 {main} INFO  com.learning.demo.SpringDemoLearningApplication - Starting SpringDemoLearningApplication using Java 21.0.2 with PID 16836 (D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples\target\classes started by pavle in D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples)
+2024-09-06 20:48:08 {main} INFO  com.learning.demo.SpringDemoLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-06 20:48:08 {main} INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8081 (http)
+2024-09-06 20:48:08 {main} INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 579 ms
+2024-09-06 20:48:08 {main} WARN  org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'hiddenHttpMethodFilter' defined in class path resource [com/learning/demo/controllers/UserController.class]: Post-processing of merged bean definition failed
+2024-09-06 20:48:08 {main} INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-09-06 20:48:08 {main} ERROR org.springframework.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'hiddenHttpMethodFilter' defined in class path resource [com/learning/demo/controllers/UserController.class]: Post-processing of merged bean definition failed
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:577) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:975) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:962) ~[spring-context-6.1.6.jar:6.1.6]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:624) ~[spring-context-6.1.6.jar:6.1.6]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.2.5.jar:3.2.5]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) [spring-boot-3.2.5.jar:3.2.5]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456) [spring-boot-3.2.5.jar:3.2.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334) [spring-boot-3.2.5.jar:3.2.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) [spring-boot-3.2.5.jar:3.2.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343) [spring-boot-3.2.5.jar:3.2.5]
+	at com.learning.demo.SpringDemoLearningApplication.main(SpringDemoLearningApplication.java:10) [classes/:?]
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [org.springframework.web.filter.reactive.HiddenHttpMethodFilter] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:483) ~[spring-core-6.1.6.jar:6.1.6]
+	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:320) ~[spring-core-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.buildLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:297) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.findLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:274) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.findLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:203) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(InitDestroyAnnotationBeanPostProcessor.java:182) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(CommonAnnotationBeanPostProcessor.java:311) ~[spring-context-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyMergedBeanDefinitionPostProcessors(AbstractAutowireCapableBeanFactory.java:1085) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:574) ~[spring-beans-6.1.6.jar:6.1.6]
+	... 15 more
+Caused by: java.lang.NoClassDefFoundError: reactor/core/publisher/Mono
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method) ~[?:?]
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3578) ~[?:?]
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2676) ~[?:?]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465) ~[spring-core-6.1.6.jar:6.1.6]
+	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:320) ~[spring-core-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.buildLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:297) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.findLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:274) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.findLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:203) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(InitDestroyAnnotationBeanPostProcessor.java:182) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(CommonAnnotationBeanPostProcessor.java:311) ~[spring-context-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyMergedBeanDefinitionPostProcessors(AbstractAutowireCapableBeanFactory.java:1085) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:574) ~[spring-beans-6.1.6.jar:6.1.6]
+	... 15 more
+Caused by: java.lang.ClassNotFoundException: reactor.core.publisher.Mono
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method) ~[?:?]
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3578) ~[?:?]
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2676) ~[?:?]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465) ~[spring-core-6.1.6.jar:6.1.6]
+	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:320) ~[spring-core-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.buildLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:297) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.findLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:274) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.findLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:203) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(InitDestroyAnnotationBeanPostProcessor.java:182) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(CommonAnnotationBeanPostProcessor.java:311) ~[spring-context-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyMergedBeanDefinitionPostProcessors(AbstractAutowireCapableBeanFactory.java:1085) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:574) ~[spring-beans-6.1.6.jar:6.1.6]
+	... 15 more
+2024-09-06 20:48:21 {main} INFO  com.learning.demo.SpringDemoLearningApplication - Starting SpringDemoLearningApplication using Java 21.0.2 with PID 4296 (D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples\target\classes started by pavle in D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples)
+2024-09-06 20:48:21 {main} INFO  com.learning.demo.SpringDemoLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-06 20:48:21 {main} INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8081 (http)
+2024-09-06 20:48:21 {main} INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 596 ms
+2024-09-06 20:48:22 {main} INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8081 (http) with context path ''
+2024-09-06 20:48:22 {main} INFO  com.learning.demo.SpringDemoLearningApplication - Started SpringDemoLearningApplication in 1.239 seconds (process running for 1.856)
+2024-09-06 20:48:26 {http-nio-8081-exec-1} INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-09-06 20:48:26 {http-nio-8081-exec-1} INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2024-09-06 20:48:26 {http-nio-8081-exec-1} INFO  com.learning.demo.controllers.UserController - Displaying registration form
+2024-09-06 20:48:41 {http-nio-8081-exec-2} INFO  com.learning.demo.controllers.UserController - User saved: BaseUser(name=Sam, email=apavwork@gmail.com, tel=3034089425, password=ADfasg78, refer=facebook, contact=email, terms=true)
+2024-09-06 20:48:44 {http-nio-8081-exec-5} INFO  com.learning.demo.controllers.UserController - Displaying all users
+2024-09-06 20:48:47 {http-nio-8081-exec-4} WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-09-06 20:53:34 {main} INFO  com.learning.demo.SpringDemoLearningApplication - Starting SpringDemoLearningApplication using Java 21.0.2 with PID 18452 (D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples\target\classes started by pavle in D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples)
+2024-09-06 20:53:34 {main} INFO  com.learning.demo.SpringDemoLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-06 20:53:35 {main} INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8081 (http)
+2024-09-06 20:53:35 {main} INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 640 ms
+2024-09-06 20:53:35 {main} INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8081 (http) with context path ''
+2024-09-06 20:53:35 {main} INFO  com.learning.demo.SpringDemoLearningApplication - Started SpringDemoLearningApplication in 1.383 seconds (process running for 1.979)
+2024-09-06 20:53:36 {http-nio-8081-exec-1} INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-09-06 20:53:36 {http-nio-8081-exec-1} INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-09-06 20:53:36 {http-nio-8081-exec-1} INFO  com.learning.demo.controllers.UserController - Displaying registration form
+2024-09-06 20:53:46 {http-nio-8081-exec-4} INFO  com.learning.demo.controllers.UserController - User saved: BaseUser(name=Anna V. Pavlenko, email=apavwork@gmail.com, tel=3034089425, password=ADsasg78, refer=facebook, contact=email, terms=true)
+2024-09-06 20:53:49 {http-nio-8081-exec-5} INFO  com.learning.demo.controllers.UserController - Displaying all users
+2024-09-06 20:53:51 {http-nio-8081-exec-6} INFO  com.learning.demo.controllers.UserController - Displaying registration form
+2024-09-06 20:54:10 {http-nio-8081-exec-7} INFO  com.learning.demo.controllers.UserController - User saved: BaseUser(name=Sam, email=apavwork@gmail.com, tel=3034089425, password=Afafgg78, refer=facebook, contact=email, terms=true)
+2024-09-06 20:54:12 {http-nio-8081-exec-8} INFO  com.learning.demo.controllers.UserController - Displaying all users
+2024-09-06 20:54:13 {http-nio-8081-exec-9} INFO  com.learning.demo.controllers.UserController - Displaying registration form
+2024-09-06 20:54:32 {http-nio-8081-exec-10} INFO  com.learning.demo.controllers.UserController - User saved: BaseUser(name=Anna Pavlenko, email=apavwork@gmail.com, tel=3034089425, password=ADxdfgdg78989, refer=facebook, contact=email, terms=true)
+2024-09-06 20:54:33 {http-nio-8081-exec-1} INFO  com.learning.demo.controllers.UserController - Displaying all users
+2024-09-06 20:54:36 {http-nio-8081-exec-3} WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-09-06 20:56:19 {main} INFO  com.learning.demo.SpringDemoLearningApplication - Starting SpringDemoLearningApplication using Java 21.0.2 with PID 10476 (D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples\target\classes started by pavle in D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples)
+2024-09-06 20:56:19 {main} INFO  com.learning.demo.SpringDemoLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-06 20:56:20 {main} INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8081 (http)
+2024-09-06 20:56:20 {main} INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 588 ms
+2024-09-06 20:56:20 {main} INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8081 (http) with context path ''
+2024-09-06 20:56:20 {main} INFO  com.learning.demo.SpringDemoLearningApplication - Started SpringDemoLearningApplication in 1.219 seconds (process running for 1.799)
+2024-09-06 20:56:25 {http-nio-8081-exec-1} INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-09-06 20:56:25 {http-nio-8081-exec-1} INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-09-06 20:56:25 {http-nio-8081-exec-1} WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-09-06 20:56:39 {http-nio-8081-exec-5} INFO  com.learning.demo.controllers.UserController - Displaying registration form
+2024-09-06 20:56:55 {http-nio-8081-exec-4} INFO  com.learning.demo.controllers.UserController - User saved: BaseUser(name=Anna V. Pavlenko, email=apavwork@gmail.com, tel=3034089425, password=Addgd787897Asdd, refer=facebook, contact=email, terms=true)
+2024-09-06 20:56:56 {http-nio-8081-exec-3} INFO  com.learning.demo.controllers.UserController - Displaying all users
+2024-09-06 20:56:58 {http-nio-8081-exec-6} INFO  com.learning.demo.controllers.UserController - Displaying registration form
+2024-09-06 20:57:06 {http-nio-8081-exec-7} INFO  com.learning.demo.controllers.UserController - User saved: BaseUser(name=Anna V. Pavlenko, email=apavwork@gmail.com, tel=3034089425, password=Asddsgfsd7878, refer=facebook, contact=email, terms=true)
+2024-09-06 20:57:07 {http-nio-8081-exec-8} INFO  com.learning.demo.controllers.UserController - Displaying all users
+2024-09-06 20:57:10 {http-nio-8081-exec-9} WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' is not supported]
+2024-09-06 20:58:39 {main} INFO  com.learning.demo.SpringDemoLearningApplication - Starting SpringDemoLearningApplication using Java 21.0.2 with PID 6132 (D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples\target\classes started by pavle in D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples)
+2024-09-06 20:58:39 {main} INFO  com.learning.demo.SpringDemoLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-06 20:58:40 {main} INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8081 (http)
+2024-09-06 20:58:40 {main} INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 581 ms
+2024-09-06 20:58:40 {main} WARN  org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'hiddenHttpMethodFilter' defined in class path resource [com/learning/demo/controllers/UserController.class]: Post-processing of merged bean definition failed
+2024-09-06 20:58:40 {main} INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-09-06 20:58:40 {main} ERROR org.springframework.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'hiddenHttpMethodFilter' defined in class path resource [com/learning/demo/controllers/UserController.class]: Post-processing of merged bean definition failed
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:577) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:975) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:962) ~[spring-context-6.1.6.jar:6.1.6]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:624) ~[spring-context-6.1.6.jar:6.1.6]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.2.5.jar:3.2.5]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) [spring-boot-3.2.5.jar:3.2.5]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456) [spring-boot-3.2.5.jar:3.2.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334) [spring-boot-3.2.5.jar:3.2.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) [spring-boot-3.2.5.jar:3.2.5]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343) [spring-boot-3.2.5.jar:3.2.5]
+	at com.learning.demo.SpringDemoLearningApplication.main(SpringDemoLearningApplication.java:10) [classes/:?]
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [org.springframework.web.filter.reactive.HiddenHttpMethodFilter] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:483) ~[spring-core-6.1.6.jar:6.1.6]
+	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:320) ~[spring-core-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.buildLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:297) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.findLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:274) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.findLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:203) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(InitDestroyAnnotationBeanPostProcessor.java:182) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(CommonAnnotationBeanPostProcessor.java:311) ~[spring-context-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyMergedBeanDefinitionPostProcessors(AbstractAutowireCapableBeanFactory.java:1085) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:574) ~[spring-beans-6.1.6.jar:6.1.6]
+	... 15 more
+Caused by: java.lang.NoClassDefFoundError: reactor/core/publisher/Mono
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method) ~[?:?]
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3578) ~[?:?]
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2676) ~[?:?]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465) ~[spring-core-6.1.6.jar:6.1.6]
+	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:320) ~[spring-core-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.buildLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:297) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.findLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:274) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.findLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:203) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(InitDestroyAnnotationBeanPostProcessor.java:182) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(CommonAnnotationBeanPostProcessor.java:311) ~[spring-context-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyMergedBeanDefinitionPostProcessors(AbstractAutowireCapableBeanFactory.java:1085) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:574) ~[spring-beans-6.1.6.jar:6.1.6]
+	... 15 more
+Caused by: java.lang.ClassNotFoundException: reactor.core.publisher.Mono
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method) ~[?:?]
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3578) ~[?:?]
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2676) ~[?:?]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465) ~[spring-core-6.1.6.jar:6.1.6]
+	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:320) ~[spring-core-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.buildLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:297) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.findLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:274) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.findLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:203) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(InitDestroyAnnotationBeanPostProcessor.java:182) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(CommonAnnotationBeanPostProcessor.java:311) ~[spring-context-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyMergedBeanDefinitionPostProcessors(AbstractAutowireCapableBeanFactory.java:1085) ~[spring-beans-6.1.6.jar:6.1.6]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:574) ~[spring-beans-6.1.6.jar:6.1.6]
+	... 15 more
+2024-09-06 20:59:14 {main} INFO  com.learning.demo.SpringDemoLearningApplication - Starting SpringDemoLearningApplication using Java 21.0.2 with PID 30048 (D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples\target\classes started by pavle in D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples)
+2024-09-06 20:59:14 {main} INFO  com.learning.demo.SpringDemoLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-06 20:59:15 {main} INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8081 (http)
+2024-09-06 20:59:15 {main} INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 618 ms
+2024-09-06 20:59:15 {main} INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8081 (http) with context path ''
+2024-09-06 20:59:15 {main} INFO  com.learning.demo.SpringDemoLearningApplication - Started SpringDemoLearningApplication in 1.251 seconds (process running for 1.83)
+2024-09-06 21:22:19 {main} INFO  com.learning.demo.SpringDemoLearningApplication - Starting SpringDemoLearningApplication using Java 21.0.2 with PID 13336 (D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples\target\classes started by pavle in D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples)
+2024-09-06 21:22:19 {main} INFO  com.learning.demo.SpringDemoLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-06 21:22:20 {main} INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8081 (http)
+2024-09-06 21:22:20 {main} INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 616 ms
+2024-09-06 21:22:20 {main} INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8081 (http) with context path ''
+2024-09-06 21:22:20 {main} INFO  com.learning.demo.SpringDemoLearningApplication - Started SpringDemoLearningApplication in 1.296 seconds (process running for 1.91)
+2024-09-06 21:22:35 {http-nio-8081-exec-1} INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-09-06 21:22:35 {http-nio-8081-exec-1} INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-09-06 21:22:35 {http-nio-8081-exec-1} INFO  com.learning.demo.controllers.UserController - Displaying registration form
+2024-09-06 21:22:38 {http-nio-8081-exec-3} INFO  com.learning.demo.controllers.UserController - Displaying registration form
+2024-09-06 21:22:39 {http-nio-8081-exec-2} INFO  com.learning.demo.controllers.UserController - Displaying registration form
+2024-09-06 21:22:40 {http-nio-8081-exec-4} INFO  com.learning.demo.controllers.UserController - Displaying registration form
+2024-09-06 21:22:50 {http-nio-8081-exec-5} INFO  com.learning.demo.controllers.UserController - Displaying registration form
+2024-09-06 21:23:07 {main} INFO  com.learning.demo.SpringDemoLearningApplication - Starting SpringDemoLearningApplication using Java 21.0.2 with PID 24264 (D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples\target\classes started by pavle in D:\FULL-STUCK-DEV-PROJECTS\DEMO_pr\SpringDemoExamples)
+2024-09-06 21:23:07 {main} INFO  com.learning.demo.SpringDemoLearningApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-06 21:23:07 {main} INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8081 (http)
+2024-09-06 21:23:07 {main} INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 589 ms
+2024-09-06 21:23:07 {main} INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8081 (http) with context path ''
+2024-09-06 21:23:07 {main} INFO  com.learning.demo.SpringDemoLearningApplication - Started SpringDemoLearningApplication in 1.201 seconds (process running for 1.784)
+2024-09-06 21:23:08 {http-nio-8081-exec-1} INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-09-06 21:23:08 {http-nio-8081-exec-1} INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2024-09-06 21:23:08 {http-nio-8081-exec-1} INFO  com.learning.demo.controllers.UserController - Displaying registration form

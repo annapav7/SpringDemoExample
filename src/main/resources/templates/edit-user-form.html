@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Edit User</title>
+    <link rel="stylesheet" th:href="@{/css/styles.css}" />
+</head>
+<body>
+<div class="container">
+    <div class="form-section">
+        <h1>Edit User</h1>
+        <form id="editUserForm" th:action="@{/updateUser(index=${index})}" th:object="${baseUser}" method="post">
+            <input type="text" id="name" th:field="*{name}" placeholder="Full Name" />
+            <div class="error-message" id="nameError">
+                Please enter your full name.
+            </div>
+            <input type="text" id="email" th:field="*{email}" placeholder="Email Address" />
+            <div class="error-message" id="emailError">
+                Please enter a valid email address.
+            </div>
+            <input type="tel" id="tel" th:field="*{tel}" placeholder="Phone number" />
+            <div class="error-message" id="telError">
+                Please enter a valid phone number.
+            </div>
+            <input type="password" id="password" th:field="*{password}" placeholder="Password" />
+            <div class="error-message" id="passwordError">
+                Password must be at least 8 characters long and contain at least one uppercase letter, one lowercase letter, and one digit.
+            </div>
+            <select id="refer" th:field="*{refer}">
+                <option value="" disabled selected>
+                    How did you hear about us?
+                </option>
+                <option value="facebook">Facebook</option>
+                <option value="linkedin">Linkedin</option>
+                <option value="google">Google</option>
+            </select>
+            <div class="error-message" id="referError">
+                Please select how you heard about us.
+            </div>
+            <fieldset class="dining-space">
+                <legend>Preferred Contact Method</legend>
+                <label>
+                    <input type="radio" th:field="*{contact}" value="email" />
+                    Email
+                </label>
+                <label>
+                    <input type="radio" th:field="*{contact}" value="phone" />
+                    Phone
+                </label>
+            </fieldset>
+
+            <label>
+                <input type="checkbox" id="terms" th:field="*{terms}" />
+                I agree to the terms and conditions
+            </label>
+            <div class="error-message" id="termsError" style="margin-top: 15px">
+                You must agree to the terms and conditions.
+            </div>
+
+            <button type="submit" class="book-btn">Update</button>
+        </form>
+        <p><a th:href="@{/allUsers}">Cancel</a></p>
+    </div>
+</div>
+</body>
+</html>
